@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.13ded6ab.css",
+    "main.js": "/static/js/main.30895f13.js",
+    "static/media/bg-navbar.png": "/static/media/bg-navbar.da87cc5bdfc3f1e0b75e.png",
+    "static/media/harvard.png": "/static/media/harvard.dd2c27a90e989a48ff00.png",
+    "static/media/falcon-mode-default.jpg": "/static/media/falcon-mode-default.953e5536a8e766a7d9cd.jpg",
+    "static/media/oxford.png": "/static/media/oxford.9cafa98d5e48fb50bdca.png",
+    "static/media/navbar-vertical.png": "/static/media/navbar-vertical.8de69786a0d57b17ffdc.png",
+    "static/media/21.png": "/static/media/21.afe4bca87d0428f63fd7.png",
+    "static/media/falcon-mode-dark.jpg": "/static/media/falcon-mode-dark.287d941d55a122344214.jpg",
+    "static/media/weather.jpg": "/static/media/weather.27c27b87042ebe27742b.jpg",
+    "static/media/2.jpg": "/static/media/2.20b1aba341d608286e8d.jpg",
+    "static/media/7.jpg": "/static/media/7.ad543a0e83599b4c9eca.jpg",
+    "static/media/4.jpg": "/static/media/4.482e0311a04c21d39072.jpg",
+    "static/media/9.jpg": "/static/media/9.57c5c6012dba7d53ee2e.jpg",
+    "static/media/8.jpg": "/static/media/8.f10cab45621e51a3042a.jpg",
+    "static/media/10.jpg": "/static/media/10.8575d5a933f12d1a0eb8.jpg",
+    "static/media/1.jpg": "/static/media/1.f7d5569cf13ddcf4df82.jpg",
+    "static/media/5.jpg": "/static/media/5.3fdcffd48a030bc32c64.jpg",
+    "static/media/settings.png": "/static/media/settings.fa1b6423ed2eb35d8b28.png",
+    "static/media/3.jpg": "/static/media/3.b3477e97bffc3dc7e37d.jpg",
+    "static/media/falcon.png": "/static/media/falcon.fa3b1ec66baa6b31819e.png",
+    "static/media/authentication-corner.png": "/static/media/authentication-corner.f8e7f31222dd141d53c1.png",
+    "static/media/instagram.png": "/static/media/instagram.0c6a5c7e1151b08d2df9.png",
+    "index.html": "/index.html",
+    "static/media/arrows-h.svg": "/static/media/arrows-h.2408d737e99095ec4becb32f42af1773.svg",
+    "static/media/left-arrow-from-left.svg": "/static/media/left-arrow-from-left.cc51443c1be703c8dfe108adca6abd0b.svg",
+    "static/media/paragraph.svg": "/static/media/paragraph.39a886829c0c43e707aa9e6e913f3475.svg",
+    "main.13ded6ab.css.map": "/static/css/main.13ded6ab.css.map",
+    "main.30895f13.js.map": "/static/js/main.30895f13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13ded6ab.css",
+    "static/js/main.30895f13.js"
+  ]
+}
